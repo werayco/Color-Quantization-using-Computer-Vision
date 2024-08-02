@@ -1,0 +1,7 @@
+stages:
+  quantization:
+    cmd: Python Quantization.py
+    deps:
+      - Quantization.py
+    outs:
+      - quantized_image.py
