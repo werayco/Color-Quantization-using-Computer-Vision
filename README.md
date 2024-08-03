@@ -1,5 +1,5 @@
 ## What this project is all about
-in layman's term, Image Quantization is a technique which is used to reduce the number of colors in an image
+in layman's term, Color Quantization is a technique which is used to reduce the number of colors in an image
 ## How to run the code
 Run the "Quantization.py" in your terminal
 
